@@ -9,7 +9,7 @@
 
 
 ## Data Analysis
-
+### Kaggle
 * Titanic
   * [EDA](https://github.com/lsGee/TIL/blob/master/02.kaggle/Titanic_1_EDA.ipynb)
   * [Decision Tree](https://github.com/lsGee/TIL/blob/master/02.kaggle/Titanic_2_DecisionTree.ipynb)
