@@ -204,3 +204,22 @@ $ code [경로]
 
 7. PR 에서 commit 완료되고 나서 다시 git에서 pull할 때, master에서 pull!
 
+
+
+## 취소
+1. add 취소
+    * 전체 취소
+    ```shell
+    git reset
+    ```
+    * 특정 파일 취소
+    ```shell
+    git reset HEAD [파일명]
+    ```
+
+2. commit 취소
+    * 가장 최근 1개 commit 취소
+    ```shell
+    git reset HEAD^
+    ```
+    `^`의 개수에 따라 최근 n개 commit 삭제 가능
