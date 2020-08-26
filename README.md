@@ -6,7 +6,7 @@
 
 * [python programming basic](https://github.com/lsGee/TIL/blob/master/01.Python%20basic/python_basic.ipynb)
 
-* [가상환경 다루기 (Anaconda 포함)](https://github.com/lsGee/TIL/blob/master/01.Python%20basic/python_%EA%B0%80%EC%83%81%ED%99%98%EA%B2%BD.md)
+* [가상환경 다루기 (+ Anaconda)](https://github.com/lsGee/TIL/blob/master/01.Python%20basic/python_%EA%B0%80%EC%83%81%ED%99%98%EA%B2%BD.md)
 
 ## Data Analysis
 ### Kaggle - study
