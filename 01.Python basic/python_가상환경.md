@@ -15,7 +15,7 @@
 2. 가상환경 활성화
 
    ```shell
-   cd [가상환경폴더 경로]/Scripts/activate.bat
+   [가상환경폴더 경로]/Scripts/activate.bat
    ```
 
    
