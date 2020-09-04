@@ -28,12 +28,12 @@
 ### Programmers
 
 1. 해시
-   * 완주하지 못한 선수
-   * 전화번호
-   * 위장
-   * 베스트앨범
+   * [완주하지 못한 선수](https://github.com/lsGee/TIL/blob/master/03.CodingTest/programmers_hash_lv1.md)
+   * [전화번호](https://github.com/lsGee/TIL/blob/master/03.CodingTest/programmers_hash_lv2.md)
+   * [위장](https://github.com/lsGee/TIL/blob/master/03.CodingTest/programmers_hash_lv3.md)
+   * [베스트앨범](https://github.com/lsGee/TIL/blob/master/03.CodingTest/programmers_hash_lv4.md)
 2. 스택/큐
-   * 주식가격
+   * [주식가격](https://github.com/lsGee/TIL/blob/master/03.CodingTest/programmers_stackque_lv1.md)
 
 
 
