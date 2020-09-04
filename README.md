@@ -11,6 +11,14 @@
 
 
 
+## Django
+
+* [PythonAnywhere로 프로젝트 배포하기](https://github.com/lsGee/TIL/blob/master/05.Django/PythonAnywhere%EC%82%AC%EC%9A%A9%EB%B2%95.md)
+
+
+
+
+
 ## 코딩테스트 연습
 
 ### Baekjoon
