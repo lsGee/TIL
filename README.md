@@ -5,8 +5,29 @@
 ## Python
 
 * [python programming basic](https://github.com/lsGee/TIL/blob/master/01.Python%20basic/python_basic.ipynb)
-
 * [가상환경 다루기 (+ Anaconda)](https://github.com/lsGee/TIL/blob/master/01.Python%20basic/python_%EA%B0%80%EC%83%81%ED%99%98%EA%B2%BD.md)
+
+
+
+
+
+## 코딩테스트 연습
+
+### Baekjoon
+
+
+
+### Programmers
+
+1. 해시
+   * 완주하지 못한 선수
+   * 전화번호
+   * 위장
+   * 베스트앨범
+2. 스택/큐
+   * 주식가격
+
+
 
 ## Data Analysis
 ### Kaggle - study
