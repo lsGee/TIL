@@ -1,6 +1,8 @@
 # TIL_Index
 
->  
+>  since 2020.07.13 ~ 
+
+<br>
 
 ## Python
 
@@ -21,7 +23,6 @@
 
 ## R
 
-<<<<<<< HEAD
 ### 기초 문법
 
 * [R 기초 문법 (1) 자료형, 변수, 벡터](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_1.md)
@@ -43,10 +44,6 @@
 
 ## 코딩테스트 연습
 
-### Baekjoon
-
-
-
 ### Programmers
 
 1. 해시
@@ -55,9 +52,10 @@
    * [위장](https://github.com/lsGee/TIL/blob/master/03.CodingTest/programmers_hash_lv3.md)
    * [베스트앨범](https://github.com/lsGee/TIL/blob/master/03.CodingTest/programmers_hash_lv4.md)
 2. 스택/큐
+   
    * [주식가격](https://github.com/lsGee/TIL/blob/master/03.CodingTest/programmers_stackque_lv1.md)
-
-
+   
+   * 
 
 <br>
 
