@@ -9,7 +9,7 @@
 
 
 
-
+<br>
 
 ## Django
 
@@ -17,16 +17,24 @@
 
 
 
-
+<br>
 
 ## R
 
+<<<<<<< HEAD
+### 기초 문법
+
+* [R 기초 문법 (1) 자료형, 변수, 벡터](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_1.md)
+* [R 기초 문법 (2) 행렬, 배열]()
+=======
 * **기초 문법**
   * [R 기초 문법 (1) 자료형, 벡터](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_1.md)
 
+>>>>>>> 680f176dc01cc35e2d98a60e2a1bbdf6b122b5ba
 
 
 
+<br>
 
 ## Data Analysis
 ### Kaggle - study
@@ -36,7 +44,7 @@
 
 
 
-
+<br>
 
 ## 코딩테스트 연습
 
@@ -56,7 +64,7 @@
 
 
 
-
+<br>
 
 ## GIT 특강
 
