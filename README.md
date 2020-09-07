@@ -19,6 +19,26 @@
 
 
 
+## R
+
+### 기초 문법
+
+* [R 기초 문법 (1) 자료형, 벡터](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_1.md)
+
+
+
+
+
+## Data Analysis
+### Kaggle - study
+* **Titanic**
+  * [EDA](https://github.com/lsGee/TIL/blob/master/02.kaggle/Titanic_1_EDA.ipynb)
+  * [Decision Tree](https://github.com/lsGee/TIL/blob/master/02.kaggle/Titanic_2_DecisionTree.ipynb)
+
+
+
+
+
 ## 코딩테스트 연습
 
 ### Baekjoon
@@ -36,12 +56,6 @@
    * [주식가격](https://github.com/lsGee/TIL/blob/master/03.CodingTest/programmers_stackque_lv1.md)
 
 
-
-## Data Analysis
-### Kaggle - study
-* **Titanic**
-  * [EDA](https://github.com/lsGee/TIL/blob/master/02.kaggle/Titanic_1_EDA.ipynb)
-  * [Decision Tree](https://github.com/lsGee/TIL/blob/master/02.kaggle/Titanic_2_DecisionTree.ipynb)
 
 
 
