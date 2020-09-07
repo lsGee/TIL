@@ -21,9 +21,8 @@
 
 ## R
 
-### 기초 문법
-
-* [R 기초 문법 (1) 자료형, 벡터](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_1.md)
+* **기초 문법**
+  * [R 기초 문법 (1) 자료형, 벡터](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_1.md)
 
 
 
