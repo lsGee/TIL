@@ -14,7 +14,7 @@
 * [`ls()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_1.md/#%EC%83%9D%EC%84%B1%EB%90%9C-%EB%B3%80%EC%88%98-%ED%99%95%EC%9D%B8)
 * `rm()`
   * [1일차](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_1.md/#%EB%B3%80%EC%88%98-%EC%82%AD%EC%A0%9C)
-  * [2일차 - 변수 전부 지우기]
+  * [2일차 - 변수 전부 지우기](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_3.md#%EB%B3%80%EC%88%98%EB%A5%BC-%ED%8C%8C%EC%9D%BC%EB%A1%9C-%EC%A0%80%EC%9E%A5-%EB%B0%8F-%EB%A1%9C%EB%93%9C)
 * `summay()`
   * [1일차](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_1.md/#6-%EA%B8%B0%EB%B3%B8-%ED%86%B5%EA%B3%84-%ED%95%A8%EC%88%98)
   * [2일차 - 매트릭스](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_2.md#%EA%B8%B0%ED%83%80-%ED%95%A8%EC%88%98)
@@ -48,13 +48,11 @@
 * [`dim()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_3.md#%EA%B8%B0%ED%83%80-%ED%95%A8%EC%88%98)
 * [`read.csv()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_3.md#csv-%ED%8C%8C%EC%9D%BC-%EC%9D%BD%EC%96%B4%EC%98%A4%EA%B8%B0)
 * [`file.choose()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_3.md#csv-%ED%8C%8C%EC%9D%BC-%EC%9D%BD%EC%96%B4%EC%98%A4%EA%B8%B0)
-* [`write.csv()`]
-* [`save()`]
-* [`load()`]
-* [`scan()`]
-* [`readLines()`]
-
-
+* [`write.csv()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_3.md#csv-%ED%8C%8C%EC%9D%BC-%EC%9D%BD%EC%96%B4%EC%98%A4%EA%B8%B0)
+* [`save()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_3.md#%EB%B3%80%EC%88%98%EB%A5%BC-%ED%8C%8C%EC%9D%BC%EB%A1%9C-%EC%A0%80%EC%9E%A5-%EB%B0%8F-%EB%A1%9C%EB%93%9C)
+* [`load()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_3.md#%EB%B3%80%EC%88%98%EB%A5%BC-%ED%8C%8C%EC%9D%BC%EB%A1%9C-%EC%A0%80%EC%9E%A5-%EB%B0%8F-%EB%A1%9C%EB%93%9C)
+* [`scan()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_3.md#%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%8C%8C%EC%9D%BC-%EB%A1%9C%EB%93%9C)
+* [`readLines()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_3.md#%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%8C%8C%EC%9D%BC-%EB%A1%9C%EB%93%9C)
 
 <br>
 
