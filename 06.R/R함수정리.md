@@ -8,7 +8,6 @@
 
 * [`rep()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_1.md/#3-%EB%B3%80%EC%88%98-%EC%83%9D%EC%84%B1-%EB%B0%8F-%EC%B6%9C%EB%A0%A5)
 * [`rev()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_1.md/#3-%EB%B3%80%EC%88%98-%EC%83%9D%EC%84%B1-%EB%B0%8F-%EC%B6%9C%EB%A0%A5)
-* [`order()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_1.md/#3-%EB%B3%80%EC%88%98-%EC%83%9D%EC%84%B1-%EB%B0%8F-%EC%B6%9C%EB%A0%A5)
 * [`class()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_1.md/#3-%EB%B3%80%EC%88%98-%EC%83%9D%EC%84%B1-%EB%B0%8F-%EC%B6%9C%EB%A0%A5)
 * [`names()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_1.md/#3-%EB%B3%80%EC%88%98-%EC%83%9D%EC%84%B1-%EB%B0%8F-%EC%B6%9C%EB%A0%A5)
 * [`ls()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_1.md/#%EC%83%9D%EC%84%B1%EB%90%9C-%EB%B3%80%EC%88%98-%ED%99%95%EC%9D%B8)
@@ -41,6 +40,7 @@
 * [`plot()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_3.md#%EC%B0%B8%EA%B3%A0-plot)
 * [`data.frame()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_3.md#%EC%83%9D%EC%84%B1-1)
 * [`sort()` & `order()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_3.md#%EC%A0%95%EB%A0%AC) 
+  * [`order() - 1일차`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_1.md/#3-%EB%B3%80%EC%88%98-%EC%83%9D%EC%84%B1-%EB%B0%8F-%EC%B6%9C%EB%A0%A5)
 * [`str()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_3.md#%EA%B8%B0%ED%83%80-%ED%95%A8%EC%88%98)
 * [`table()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_3.md#%EA%B8%B0%ED%83%80-%ED%95%A8%EC%88%98)
 * [`subset()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_3.md#%EA%B8%B0%ED%83%80-%ED%95%A8%EC%88%98)
