@@ -40,6 +40,9 @@
 * [R 기초 문법 (1) 자료형, 변수, 벡터](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_1.md)
 * [R 기초 문법 (2) 행렬, 배열](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_2.md)
 * [R 기초 문법 (3) 팩터, 데이터프레임](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_3.md)
+* [R 기초 문법 (4) 연산자](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_4.md)
+* [R 기초 문법 (5) 리스트](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_5.md)
+* [R 기초 문법 (6) 제어문](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_6.md)
 
 <br>
 

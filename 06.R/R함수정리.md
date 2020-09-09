@@ -8,7 +8,9 @@
 * [`rep()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_1.md/#3-%EB%B3%80%EC%88%98-%EC%83%9D%EC%84%B1-%EB%B0%8F-%EC%B6%9C%EB%A0%A5)
 * [`rev()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_1.md/#3-%EB%B3%80%EC%88%98-%EC%83%9D%EC%84%B1-%EB%B0%8F-%EC%B6%9C%EB%A0%A5)
 * [`class()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_1.md/#3-%EB%B3%80%EC%88%98-%EC%83%9D%EC%84%B1-%EB%B0%8F-%EC%B6%9C%EB%A0%A5)
-* [`names()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_1.md/#3-%EB%B3%80%EC%88%98-%EC%83%9D%EC%84%B1-%EB%B0%8F-%EC%B6%9C%EB%A0%A5)
+* `names()`
+  * [벡터](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_1.md/#3-%EB%B3%80%EC%88%98-%EC%83%9D%EC%84%B1-%EB%B0%8F-%EC%B6%9C%EB%A0%A5)
+  * [리스트](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_5.md#%EA%B8%B0%EC%A1%B4-%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%97%90-%EC%9D%B4%EB%A6%84-%EB%B6%80%EC%97%AC)
 * [`ls()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_1.md/#%EC%83%9D%EC%84%B1%EB%90%9C-%EB%B3%80%EC%88%98-%ED%99%95%EC%9D%B8)
 * `rm()`
   * [1일차](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_1.md/#%EB%B3%80%EC%88%98-%EC%82%AD%EC%A0%9C)
@@ -20,8 +22,6 @@
 * [`which()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_1.md/#which)
 * [`which.max(x)`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_1.md/#which)
 * [`which.max(x)`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_1.md/#which)
-* [`paste()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_1.md/#paste)
-  * [`print()`]  vs.  [`cat()`]  vs.  [`paste`]
 * [`sample()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_1.md/#sample)
 * [`help()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_1.md/#document-%EC%B0%B8%EC%A1%B0)
 
@@ -53,25 +53,26 @@
 * [`load()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_3.md#%EB%B3%80%EC%88%98%EB%A5%BC-%ED%8C%8C%EC%9D%BC%EB%A1%9C-%EC%A0%80%EC%9E%A5-%EB%B0%8F-%EB%A1%9C%EB%93%9C)
 * [`scan()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_3.md#%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%8C%8C%EC%9D%BC-%EB%A1%9C%EB%93%9C)
 * [`readLines()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_3.md#%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%8C%8C%EC%9D%BC-%EB%A1%9C%EB%93%9C)
-* [`read.table()`]
+* [`read.table()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_3.md#%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%8C%8C%EC%9D%BC-%EB%A1%9C%EB%93%9C)
 
 <br>
 
-* [`list()`]
-* [`unlist()`]
-* [`ifelse()`]
-* [`switch()`]
-* [`print()`]  vs.  [`cat()`]  vs.  [`paste`]
+* [`list()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_5.md#1-%EC%83%9D%EC%84%B1)
+* [`unlist()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_5.md#3-%EB%A6%AC%EC%8A%A4%ED%8A%B8-%ED%95%B4%EC%A0%9C)
+* [`ifelse()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_6.md#ifelse)
+* [`switch()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_6.md#switch)
+* [`print()`  vs.  `cat()`  vs.  `paste`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_6.md#print-vs-cat-vs-paste)
+  * [`paste()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_1.md/#paste)
 
 <br>
 
 ## 제어문
 
-* [`if`]
-* [`ifelse()`]
-* [`switch()`]
-* [`for`]
-* [`while`]
+* [`if`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_6.md#if--else)
+* [`ifelse()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_6.md#ifelse)
+* [`switch()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_6.md#switch)
+* [`for`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_6.md#for)
+* [`while`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_6.md#while)
 
 <br>
 
