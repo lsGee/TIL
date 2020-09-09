@@ -5,7 +5,6 @@
 * [`as.character(x)`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_3.md#%EB%B3%80%ED%99%98)
 * `is.character(x)`
 * [`seq()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_1.md/#3-%EB%B3%80%EC%88%98-%EC%83%9D%EC%84%B1-%EB%B0%8F-%EC%B6%9C%EB%A0%A5)
-
 * [`rep()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_1.md/#3-%EB%B3%80%EC%88%98-%EC%83%9D%EC%84%B1-%EB%B0%8F-%EC%B6%9C%EB%A0%A5)
 * [`rev()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_1.md/#3-%EB%B3%80%EC%88%98-%EC%83%9D%EC%84%B1-%EB%B0%8F-%EC%B6%9C%EB%A0%A5)
 * [`class()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_1.md/#3-%EB%B3%80%EC%88%98-%EC%83%9D%EC%84%B1-%EB%B0%8F-%EC%B6%9C%EB%A0%A5)
@@ -22,6 +21,7 @@
 * [`which.max(x)`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_1.md/#which)
 * [`which.max(x)`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_1.md/#which)
 * [`paste()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_1.md/#paste)
+  * [`print()`]  vs.  [`cat()`]  vs.  [`paste`]
 * [`sample()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_1.md/#sample)
 * [`help()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_1.md/#document-%EC%B0%B8%EC%A1%B0)
 
@@ -53,6 +53,25 @@
 * [`load()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_3.md#%EB%B3%80%EC%88%98%EB%A5%BC-%ED%8C%8C%EC%9D%BC%EB%A1%9C-%EC%A0%80%EC%9E%A5-%EB%B0%8F-%EB%A1%9C%EB%93%9C)
 * [`scan()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_3.md#%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%8C%8C%EC%9D%BC-%EB%A1%9C%EB%93%9C)
 * [`readLines()`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_3.md#%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%8C%8C%EC%9D%BC-%EB%A1%9C%EB%93%9C)
+* [`read.table()`]
+
+<br>
+
+* [`list()`]
+* [`unlist()`]
+* [`ifelse()`]
+* [`switch()`]
+* [`print()`]  vs.  [`cat()`]  vs.  [`paste`]
+
+<br>
+
+## 제어문
+
+* [`if`]
+* [`ifelse()`]
+* [`switch()`]
+* [`for`]
+* [`while`]
 
 <br>
 
