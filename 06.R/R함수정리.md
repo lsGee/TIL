@@ -66,6 +66,16 @@
 
 <br>
 
+* [`function()` - 사용자 정의 함수](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_7.md)
+* [`abs()` - 절댓값]
+* [`invisible()`]
+* [`stop()`]
+* [`warning()`]
+* [`any()`]
+* [`all()`]
+
+<br>
+
 ## 제어문
 
 * [`if`](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_6.md#if--else)

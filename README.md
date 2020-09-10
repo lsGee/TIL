@@ -43,6 +43,10 @@
 * [R 기초 문법 (4) 연산자](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_4.md)
 * [R 기초 문법 (5) 리스트](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_5.md)
 * [R 기초 문법 (6) 제어문](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_6.md)
+* [R 기초 문법 (7) 사용자 정의 함수](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_7.md)
+* [R 기초 문법 (8) 복합대입연산자, 전역변수, 지역변수](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_8.md)
+* [R 기초 문법 (9) 강제로 오류 발생시키기](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_9.md)
+* [R 기초 문법 (10) 예외처리](https://github.com/lsGee/TIL/blob/master/06.R/R%EA%B8%B0%EC%B4%88_10.md)
 
 <br>
 
