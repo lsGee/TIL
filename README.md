@@ -4,8 +4,8 @@
 
 ## Python
 
-* [python programming (2020.07~2020.08)](https://github.com/lsGee/TIL/blob/master/01.Python%20basic/python_basic.ipynb)
-* [가상환경 다루기 (+ Anaconda)](https://github.com/lsGee/TIL/blob/master/01.Python%20basic/python_%EA%B0%80%EC%83%81%ED%99%98%EA%B2%BD.md)
+* [python programming (2020.07~2020.08)](https://github.com/lsGee/TIL/blob/master/01.Python/python_basic.ipynb)
+* [가상환경 다루기 (+ Anaconda)](https://github.com/lsGee/TIL/blob/master/01.Python/python_%EA%B0%80%EC%83%81%ED%99%98%EA%B2%BD.md)
 
 ### [코딩테스트문제] Programmers
 
@@ -49,6 +49,11 @@
 <br>
 
 ## Data Analysis
+
+### Pandas & Seaborn
+
+* [python_ds_1_pandas_seaborn](https://github.com/lsGee/TIL/blob/master/01.Python/python_ds_1_pandas_seaborn.ipynb)
+
 ### Kaggle - study
 * **Titanic**
   * [EDA](https://github.com/lsGee/TIL/blob/master/02.kaggle/Titanic_1_EDA.ipynb)
