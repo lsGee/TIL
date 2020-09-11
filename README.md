@@ -1,4 +1,4 @@
-* # TIL_Index
+# TIL_Index
 
   >  since 2020.07.13 ~ 
 
