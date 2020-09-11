@@ -31,7 +31,7 @@
 
   ### XPath
 
-  * [XPath 기본 표현식]((https://github.com/lsGee/TIL/blob/master/05.Web/web_xpath_1.md))
+  * [XPath 기본 표현식](https://github.com/lsGee/TIL/blob/master/05.Web/web_xpath_1.md)
 
   <br>
 
@@ -53,7 +53,7 @@
 
   ### 웹크롤링
 
-  * [R 웹크롤링 (1) rvest 패키지]
+  * [R 웹크롤링 (1) rvest 패키지](https://github.com/lsGee/TIL/blob/master/06.R/R%EC%9B%B9%ED%81%AC%EB%A1%A4%EB%A7%81_1.md)
 
   <br>
 
