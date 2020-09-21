@@ -12,11 +12,6 @@
 * `.replace()`
 * `.fillna()`
 * `.shift()`
-* `pd.to_datetime()`
-  * `.dt.year`
-  * `.dt.month`
-  * `.dt.day`
-  * `.dt.day_name()`
 
 <br>
 
@@ -47,6 +42,28 @@
 ## [ds_2](https://github.com/lsGee/TIL/blob/master/01.Python/python_ds_2.ipynb)
 
 * `.dtypes()`
+* `pd.to_datetime()` : [ds_1](https://github.com/lsGee/TIL/blob/master/01.Python/python_ds_1.ipynb)에도 있지만, 이걸로 보기!
+  * `.dt.year`
+  * `.dt.month`
+  * `.dt.day`
+  * `.dt.hour`
+  * `.dt.minute`
+  * `.dt.second`
+  * `dt.dayofweek`
+  * `.dt.day_name()`
+
+<br>
+
 * `.round()`
+* `.astype()`
 * `.unique()`
 * `.value_counts()`
+
+<br>
+
+* `.get_dummies()`
+* `.concat`
+
+<br>
+
+* `df.to_csv()`
