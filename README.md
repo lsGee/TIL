@@ -63,6 +63,8 @@
 
   * [python_ds_1](https://github.com/lsGee/TIL/blob/master/01.Python/python_ds_1.ipynb)
   * [python_ds_2](https://github.com/lsGee/TIL/blob/master/01.Python/python_ds_2.ipynb)
+  * [python_ds_3 - Decision Tree](https://github.com/lsGee/TIL/blob/master/01.Python/python_ds_3_decisiontree.ipynb)
+  * [python_ds_4 - Random Forest](https://github.com/lsGee/TIL/blob/master/01.Python/python_ds_4_randomforest.ipynb)
 
   ### Kaggle - study
 
