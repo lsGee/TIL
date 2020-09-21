@@ -62,8 +62,8 @@
 * [Pandas](https://github.com/lsGee/TIL/blob/master/01.Python/python_data_pandas.md)
 * [Seaborn & Matplotlib](https://github.com/lsGee/TIL/blob/master/01.Python/python_data_seaborn_matplotlib.md)
 
-  * [Decision Tree](https://github.com/lsGee/TIL/blob/master/01.Python/python_ds_3_decisiontree.ipynb)
-  * [Random Forest](https://github.com/lsGee/TIL/blob/master/01.Python/python_ds_4_randomforest.ipynb)
+* [Decision Tree](https://github.com/lsGee/TIL/blob/master/01.Python/python_ds_3_decisiontree.ipynb)
+* [Random Forest](https://github.com/lsGee/TIL/blob/master/01.Python/python_ds_4_randomforest.ipynb)
 
 ---
 
