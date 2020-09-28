@@ -64,6 +64,7 @@
 
 * [Decision Tree](https://github.com/lsGee/TIL/blob/master/01.Python/python_ds_3_decisiontree.ipynb)
 * [Random Forest](https://github.com/lsGee/TIL/blob/master/01.Python/python_ds_4_randomforest.ipynb)
+* [Hyperparameter Tuning](https://github.com/lsGee/TIL/blob/master/01.Python/python_ds_5_hyperparameterTuning.ipynb)
 
 ---
 
