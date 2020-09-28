@@ -67,3 +67,18 @@
 <br>
 
 * `df.to_csv()`
+
+---
+
+# Numpy
+
+## [ds_2](https://github.com/lsGee/TIL/blob/master/01.Python/python_ds_2.ipynb)
+
+* `np.log()`
+* `np.exp()`
+* `np.sqrt()`
+
+<br>
+
+* `np.random.randint()`
+* `np.random.uniform()`
